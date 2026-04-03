@@ -1,4 +1,6 @@
 # Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+#Go to cmd prompt and use the webcam: python detect.py --weights runs/train/exp5/weights/best.pt --source 0
+
 """
 Run YOLOv5 detection inference on images, videos, directories, globs, YouTube, webcam, streams, etc.
 
